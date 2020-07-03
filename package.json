@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/lemuelZara/calorie-calculator/issues"
   },
-  "homepage": "https://github.com/lemuelZara/calorie-calculator#readme"
+  "homepage": "https://github.com/lemuelZara/calorie-calculator#readme",
+  "devDependencies": {
+    "serve": "^11.3.2"
+  }
 }
